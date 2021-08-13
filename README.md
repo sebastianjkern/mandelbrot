@@ -1,6 +1,6 @@
 # Mandelbrot
 
-Calculates an image of the mandelbrot at the standard zoom level.
+Calculates an image of the mandelbrot set at the standard zoom level.
 
 ## Example
 
